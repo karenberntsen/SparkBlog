@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging /hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/target/scala-2.11/rubigdataapp_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	org/rubigdata/RUBigDataApp$.class[0m
+[0m[[0mdebug[0m] [0m	  /hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/target/scala-2.11/classes/org/rubigdata/RUBigDataApp$.class[0m
+[0m[[0mdebug[0m] [0m	org/rubigdata/RUBigDataApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/target/scala-2.11/classes/org/rubigdata/RUBigDataApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org/rubigdata/RUBigDataApp.class[0m
+[0m[[0mdebug[0m] [0m	  /hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/target/scala-2.11/classes/org/rubigdata/RUBigDataApp.class[0m
+[0m[[0mdebug[0m] [0m	org/rubigdata/RUBigDataApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/target/scala-2.11/classes/org/rubigdata/RUBigDataApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	org[0m
+[0m[[0mdebug[0m] [0m	  /hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/target/scala-2.11/classes/org[0m
+[0m[[0mdebug[0m] [0m	org/rubigdata[0m
+[0m[[0mdebug[0m] [0m	  /hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/target/scala-2.11/classes/org/rubigdata[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

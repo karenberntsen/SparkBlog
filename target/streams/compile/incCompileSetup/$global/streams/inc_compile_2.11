@@ -1,0 +1,127 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+4 items
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> /hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/target/scala-2.11/classes/org/rubigdata/RUBigDataApp$$anonfun$1.class
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> /hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/target/scala-2.11/classes/org/rubigdata/RUBigDataApp$$anonfun$2.class
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> /hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/target/scala-2.11/classes/org/rubigdata/RUBigDataApp$.class
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> /hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/target/scala-2.11/classes/org/rubigdata/RUBigDataApp.class
+binary dependencies:
+3 items
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> /root/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.1.jar
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+4 items
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> org.rubigdata.RUBigDataApp
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> org.rubigdata.RUBigDataApp$
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> org.rubigdata.RUBigDataApp$$anonfun$1
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> org.rubigdata.RUBigDataApp$$anonfun$2
+used names:
+40 items
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> <init>
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> <repeated>
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> Any
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> AnyRef
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> Array
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> Boolean
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> CharSequence
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> Function1
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> Int
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> Long
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> Object
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> Predef
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> RDD
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> RUBigDataApp
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> SparkConf
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> SparkContext
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> String
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> StringOps
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> Unit
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> apache
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> augmentString
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> cache
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> conf
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> contains
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> count
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> data
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> filter
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> fnm
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> format
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> line
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> numAs
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> numEs
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> org
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> println
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> rubigdata
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> sc
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> scala
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> setAppName
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> spark
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> textFile
+product stamps:
+4 items
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/target/scala-2.11/classes/org/rubigdata/RUBigDataApp$$anonfun$1.class -> lastModified(1495113249000)
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/target/scala-2.11/classes/org/rubigdata/RUBigDataApp$$anonfun$2.class -> lastModified(1495113249000)
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/target/scala-2.11/classes/org/rubigdata/RUBigDataApp$.class -> lastModified(1495113249000)
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/target/scala-2.11/classes/org/rubigdata/RUBigDataApp.class -> lastModified(1495113249000)
+source stamps:
+1 items
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> hash(68454c0228c00f856e7cbdc0f9d752de7461a0a4)
+binary stamps:
+3 items
+/root/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.1.jar -> lastModified(1493167440000)
+/root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> lastModified(1478465432000)
+class names:
+3 items
+/root/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.1.jar -> org.apache.spark.SparkConf
+/root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.collection.immutable.StringLike
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwgoZ3jgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwD2PFGnQABm5vdGlmeXNxAH4ADOulGFR0AAR3YWl0c3EAfgAMkaoAWnQADSRhc0luc3RhbmNlT2ZzcQB+AAwmUdIKdAAGZXF1YWxzc3EAfgAMGlHPonQADGFzSW5zdGFuY2VPZnNxAH4ADE2zFLF0AAxSVUJpZ0RhdGFBcHBzcQB+AAx4dUsodAAMc3luY2hyb25pemVkc3EAfgAMnNRUeHQADSRpc0luc3RhbmNlT2ZzcQB+AAz93pJFdAAEbWFpbnNxAH4ADDo9Pg50AAlub3RpZnlBbGxzcQB+AAzQ2Q5SdAAMaXNJbnN0YW5jZU9mc3EAfgAMn8GJS3QAAj09c3EAfgAM2FMIPHQABWNsb25lc3EAfgAMAYoQnXQACHRvU3RyaW5nc3EAfgAM1dsTLnQAAiE9c3EAfgAMrEL5DXQACGdldENsYXNzc3EAfgAMvRb/BXQAAm5lc3EAfgAMcyjQVXQAAmVxc3EAfgAMguCxk3QAAiMjc3EAfgAMp6NzqXQACGZpbmFsaXplc3EAfgAM7djOxnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAGm9yZy5ydWJpZ2RhdGEuUlVCaWdEYXRhQXBwdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADW9yZy5ydWJpZ2RhdGFzcQB+AKZ0AANvcmdzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVwbsXifdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUC9oYXRoaS1jbGllbnQvc3BhcmstMi4xLjEtYmluLXdpdGhvdXQtaGFkb29wL3J1YmlnZGF0YS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUaEVMAijAD4VufL3A+ddS3nRhoKQ=
+external apis:
+0 items
+source infos:
+1 items
+/hathi-client/spark-2.1.1-bin-without-hadoop/rubigdata/src/main/scala/org/rubigdata/RUBigDataApp.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBuxeJ91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUC9oYXRoaS1jbGllbnQvc3BhcmstMi4xLjEtYmluLXdpdGhvdXQtaGFkb29wL3J1YmlnZGF0YS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
